@@ -13,9 +13,9 @@ class Program
     static void Menu()
     {
         Console.Clear();
-        Console.WriteLine("S = Segundos");
-        Console.WriteLine("M = Minutos");
-        Console.WriteLine("0 = Sair!");
+        Console.WriteLine("[S] = Segundos");
+        Console.WriteLine("[M] = Minutos");
+        Console.WriteLine("[0] = Sair!");
         Console.WriteLine("---");
         Console.WriteLine("Quanto tempo deseja contar? (Exemplo: 5s ou 2m)");
 
